@@ -128,3 +128,4 @@ def gc(filename):
 # print ("a times b: %2i " %(a*b)) #% is a placeholder as well, length of placeholder followed by type (i for integer, s for string, f for float)
 #genomic_dna = ['nucleic', 'plasmid', 'mitochondrial']
 #print('+'.join(genomic_dna)) #prints each item in list with designated linker in between
+#test
