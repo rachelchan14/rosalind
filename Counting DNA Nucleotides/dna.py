@@ -7,6 +7,7 @@ def openfilename():
 
 def countingDNAnucleotides(filename):
     nucleotides = open(filename).read()
+    # my solution: 
     # my_dict = {}
     # for i in nucleotides:
     #     if (i == '\n'):
@@ -16,4 +17,6 @@ def countingDNAnucleotides(filename):
     # dict(ordered)
     # for value in ordered:
     #     print (value[1], end = " ")
+    
+    # cleaner solution:
     print(nucleotides.count('A'), nucleotides.count('C'), nucleotides.count('G'), nucleotides.count('T')) #kind of like get but in non-dictionary version
