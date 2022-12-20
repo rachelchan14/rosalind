@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="25e74783-34a8-4c7d-95df-c22a1b68f021" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting DNA Nucleotides/dna.py" beforeDir="false" afterPath="$PROJECT_DIR$/Counting DNA Nucleotides/dna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting DNA Nucleotides/rosalind_fib.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting DNA Nucleotides/rosalind_gc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting DNA Nucleotides/rosalind_revc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting DNA Nucleotides/rosalind_rna.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
