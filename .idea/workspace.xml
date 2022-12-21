@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e74783-34a8-4c7d-95df-c22a1b68f021" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Complementing a Strand of DNA/PROBLEM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complementing a Strand of DNA/revc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computing GC Content/PROBLEM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computing GC Content/gc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rabbits and Recurrence Relations/PROBLEM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rabbits and Recurrence Relations/fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transcribing DNA into RNA/PROBLEM.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transcribing DNA into RNA/rna.py" beforeDir="false" afterPath="$PROJECT_DIR$/Transcribing DNA into RNA/rna.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
