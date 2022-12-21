@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e74783-34a8-4c7d-95df-c22a1b68f021" name="Changes" comment="" />
+    <list default="true" id="25e74783-34a8-4c7d-95df-c22a1b68f021" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Complementing a Strand of DNA/PROBLEM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complementing a Strand of DNA/revc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computing GC Content/PROBLEM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computing GC Content/gc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rabbits and Recurrence Relations/PROBLEM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rabbits and Recurrence Relations/fib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transcribing DNA into RNA/PROBLEM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transcribing DNA into RNA/rna.py" beforeDir="false" afterPath="$PROJECT_DIR$/Transcribing DNA into RNA/rna.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,13 +39,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/rmc23/PycharmProjects/rosalind"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rmc23/PycharmProjects/rosalind&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,3 +1,5 @@
+from tkinter import filedialog
+
 def openfilename():
     path = filedialog.askopenfilename()
     return path
@@ -7,3 +9,6 @@ def transcribe(filename):
     output = open("rna_output.txt", "w")
     replaced = nucleotides.replace('T', 'U')
     output.write(replaced)
+
+file = openfilename()
+transcribe(file)
