@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e74783-34a8-4c7d-95df-c22a1b68f021" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Counting Point Mutations/PROBLEM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Counting Point Mutations/hamm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mendel's First Law/PROBLEM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mendel's First Law/iprb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
